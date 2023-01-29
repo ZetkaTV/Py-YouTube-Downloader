@@ -1,2 +1,2 @@
 @echo off
-"./venv/Scripts/python.exe" "main.py"
+"python3" "main.py"
